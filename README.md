@@ -12,14 +12,16 @@ simpelt script jeg lavede kl 03 om natten, da mange har efterspurgt dette.
 - [EN]
 >1. Download this repository
 >2. Unzip it into your resource folder
+>3. Replace your vrp/modules/basic_phone.lua with the one provided
 >3. Start it in your server.cfg
 >4. Edit the config.lua for your preference!
 
 - [DK] 
 >1. Hent denne repository
 >2. Unzip filen og læg den ind i din resource mappe
->3. Start scriptet i server.cfg
->4. Ændre i config.lua, hvis det ønskes.
+>3. Erstat din nuværende vrp/modules/basic_phone.lua med den der er i denne repository.
+>4. Start scriptet i server.cfg
+>5. Ændre i config.lua, hvis det ønskes.
 
 # LICENSE
 

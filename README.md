@@ -41,4 +41,5 @@ simpelt script jeg lavede kl 03 om natten, da mange har efterspurgt dette.
 
 # CONTACT
 Discord: oMarkez#6666
+
 https://discord.gg/vrDCYWt

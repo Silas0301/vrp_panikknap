@@ -1,5 +1,5 @@
 cfg = {
-    -- [F3] Panikknap / Panicbutton - https://docs.fivem.net/game-references/controls/
+    -- [F6] Panikknap / Panicbutton - https://docs.fivem.net/game-references/controls/
     panikknap = {0, 167},
     -- Permission man skal have for at kunne trykke på den / Permissio needed to active the panicbutton
     permission = "police.drag",
